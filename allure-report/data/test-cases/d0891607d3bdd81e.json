@@ -1,0 +1,92 @@
+{
+  "uid" : "d0891607d3bdd81e",
+  "name" : "loginTest",
+  "fullName" : "com.qa.hubspot.tests.LoginPageTest.loginTest",
+  "historyId" : "b6e3dba4facb306284eabf5629dc4b88",
+  "time" : {
+    "start" : 1586052112510,
+    "stop" : 1586052118876,
+    "duration" : 6366
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1586052077493,
+      "stop" : 1586052091883,
+      "duration" : 14390
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1586052118877,
+      "stop" : 1586052119538,
+      "duration" : 661
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.qa.hubspot.tests.LoginPageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.qa.hubspot.tests.LoginPageTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "loginTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default suite"
+  }, {
+    "name" : "suite",
+    "value" : "Default test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.qa.hubspot.tests.LoginPageTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-3HM3893"
+  }, {
+    "name" : "thread",
+    "value" : "3092@DESKTOP-3HM3893.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d0891607d3bdd81e.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,65 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "EPIC - 101 : define login feature for hubspot application",
+    "children" : [ {
+      "name" : "User 101 : Create feature for login with signup, title and login",
+      "children" : [ {
+        "name" : "login_InvalidTestCases",
+        "uid" : "f69ef23f2e3c9c1e",
+        "parentUid" : "682e5074dc715db17415c73b07fe5446",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1586053217153,
+          "stop" : 1586053217155,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifySignUpLink",
+        "uid" : "4825893661e42b84",
+        "parentUid" : "682e5074dc715db17415c73b07fe5446",
+        "status" : "broken",
+        "time" : {
+          "start" : 1586053229090,
+          "stop" : 1586053249755,
+          "duration" : 20665
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyLoginPageTitleTest",
+        "uid" : "fe872c0dc2dc6870",
+        "parentUid" : "682e5074dc715db17415c73b07fe5446",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586053249775,
+          "stop" : 1586053249789,
+          "duration" : 14
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "loginTest",
+        "uid" : "4facf6cd32f03bc2",
+        "parentUid" : "682e5074dc715db17415c73b07fe5446",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586053249792,
+          "stop" : 1586053252913,
+          "duration" : 3121
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "682e5074dc715db17415c73b07fe5446"
+    } ],
+    "uid" : "4a0976460bb96be9f87bb6a5d1f4161a"
+  } ]
+}

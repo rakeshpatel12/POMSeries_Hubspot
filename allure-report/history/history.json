@@ -1,0 +1,79 @@
+{
+  "9858d24c9f24f2a4b2a19f103caf8c66" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 1,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f69ef23f2e3c9c1e",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1586053217153,
+        "stop" : 1586053217155,
+        "duration" : 2
+      }
+    } ]
+  },
+  "959e4fb46fa94d1472896704174d4c41" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fe872c0dc2dc6870",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586053249775,
+        "stop" : 1586053249789,
+        "duration" : 14
+      }
+    } ]
+  },
+  "a286664500b193da520fadf1bc675963" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4825893661e42b84",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for presence of element located by: By.linkText: Sign up1 (tried for 20 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1586053229090,
+        "stop" : 1586053249755,
+        "duration" : 20665
+      }
+    } ]
+  },
+  "b6e3dba4facb306284eabf5629dc4b88" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4facf6cd32f03bc2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586053249792,
+        "stop" : 1586053252913,
+        "duration" : 3121
+      }
+    } ]
+  }
+}

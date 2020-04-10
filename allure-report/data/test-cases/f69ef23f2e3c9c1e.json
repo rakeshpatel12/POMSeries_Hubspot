@@ -1,0 +1,84 @@
+{
+  "uid" : "f69ef23f2e3c9c1e",
+  "name" : "login_InvalidTestCases",
+  "fullName" : "com.qa.hubspot.tests.LoginPageTest.login_InvalidTestCases",
+  "historyId" : "9858d24c9f24f2a4b2a19f103caf8c66",
+  "time" : {
+    "start" : 1586053217153,
+    "stop" : 1586053217155,
+    "duration" : 2
+  },
+  "status" : "unknown",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.qa.hubspot.tests.LoginPageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.qa.hubspot.tests.LoginPageTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "login_InvalidTestCases"
+  }, {
+    "name" : "parentSuite",
+    "value" : "HubSpot App Sanity Test Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Regression Functional Sanity Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.qa.hubspot.tests.LoginPageTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-3HM3893"
+  }, {
+    "name" : "thread",
+    "value" : "2752@DESKTOP-3HM3893.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "feature",
+    "value" : "User 101 : Create feature for login with signup, title and login"
+  }, {
+    "name" : "epic",
+    "value" : "EPIC - 101 : define login feature for hubspot application"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "18e993654b169126",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1586052540661,
+        "stop" : 1586052540662,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "5e838218d442304b",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1586052077310,
+        "stop" : 1586052077312,
+        "duration" : 2
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f69ef23f2e3c9c1e.json",
+  "parameterValues" : [ ]
+}
